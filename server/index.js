@@ -10,7 +10,10 @@ const app = express();
 app.use(helmet());
 
 const corsOptions = {
-    origin: ['http://localhost:5173', 'https://mi-portafolio.vercel.app'],
+    origin: [
+        'http://localhost:5173', 
+        'https://portafolio-josue-herrera.vercel.app'
+    ], 
     optionsSuccessStatus: 200
 };
 app.use(cors(corsOptions));
