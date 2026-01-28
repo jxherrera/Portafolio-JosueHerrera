@@ -3,9 +3,8 @@
 La aplicación permite gestionar dinámicamente la información profesional (Hoja de Vida) y publicar artículos técnicos a través de un panel de administración.
 
 ## 🚀 Enlaces de Despliegue
-* **Frontend (Vercel):** [🔗 PENDIENTE_LINK_VERCEL]
-* **Backend (Render):** [🔗 PENDIENTE_LINK_RENDER]
-* **Documentación API:** Ver archivo `API.md`
+* **Frontend (Vercel):** https://portafolio-josue-herrera.vercel.app
+* **Backend (Render):**  https://portafolio-josueherrera.onrender.com
 
 ## Stack Tecnológico
 
